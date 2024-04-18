@@ -35,7 +35,15 @@ git clone https://github.com/Vinnymesq/SistemaHotel_Csharp.git
 
 4. Utilize as funcionalidades do sistema seguindo as instruções fornecidas na interface.
 
-<div align="center">
+   
+## Autores
+
+- [Vinicius Mesquita Xavier](github.com/Vinnymesq) - Desenvolvedor principal
+  
+ <p align="center">
   <img src="https://img.shields.io/badge/Made%20with-C%23-blueviolet" alt="Made with C#" />
   
 
+## Licença
+
+Este projeto é licenciado sob a Licença MIT - veja o arquivo [LICENSE](LICENSE) para mais detalhes.
